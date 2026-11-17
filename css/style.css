@@ -1,6 +1,6 @@
 * { box-sizing: border-box; }
 body { margin: 0; font-family: times new roman, sans-serif; line-height: 1.6;
-       color: black; background: white; }
+       color: black; background: pink; }
 header { background: #182536; }
 nav { max-width: 960px; margin: auto; display: flex;
       flex-wrap: wrap; gap: 20px; padding: 18px 24px; }
